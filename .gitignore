@@ -1,6 +1,4 @@
 .env
-token.txt
-*.txt
 __pycache__/
 *.pyc
 .venv/
